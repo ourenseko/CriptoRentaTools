@@ -6,12 +6,17 @@ Calcula cuanto deberás pagar en la renta por tus ganancias en criptomonedas
 
 📊 Tramos de tributación de criptomonedas (base del ahorro)
 
+
 Cuando vendes, intercambias o conviertes cripto con ganancia, tributas así:
 
 19% → hasta 6.000 €
+
 21% → de 6.000 € a 50.000 €
+
 23% → de 50.000 € a 200.000 €
+
 27% → de 200.000 € a 300.000 €
+
 28% → más de 300.000 €
 
 👉 Esto se aplica a la ganancia neta, no al total vendido.
