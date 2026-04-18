@@ -26,3 +26,6 @@ Cuando vendes, intercambias o conviertes cripto con ganancia, tributas así:
 Muestra el precio de una criptomoneda en una fecha determinada
 
 Limitaciones de la API: Solo acepta un año atras.
+
+<img width="1111" height="649" alt="chivato" src="https://github.com/user-attachments/assets/682a0a51-ea35-4a59-8542-68a3734adc6a" />
+
