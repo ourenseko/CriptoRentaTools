@@ -20,3 +20,9 @@ Cuando vendes, intercambias o conviertes cripto con ganancia, tributas así:
 28% → más de 300.000 €
 
 👉 Esto se aplica a la ganancia neta, no al total vendido.
+
+
+# CriptoHistorial
+Muestra el precio de una criptomoneda en una fecha determinada
+
+Limitaciones de la API: Solo acepta un año atras.
