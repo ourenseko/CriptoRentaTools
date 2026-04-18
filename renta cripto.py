@@ -39,7 +39,7 @@ print(COLOR_FONDO + COLOR_LETRA + """
 \t╚██████╗██║  ██║██║██║        ██║   ╚██████╔╝
 \t╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝    ╚═════╝ 
 
-\t   CALCULADORA CRIPTO HACIENDA
+\t   CALCULADORA CRYPTO HACIENDA
 """ + RESET)
 
 
