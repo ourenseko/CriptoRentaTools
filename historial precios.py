@@ -43,7 +43,7 @@ print("""
 \t╚██████╗██║  ██║██║██║        ██║   ╚██████╔╝
 \t╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝    ╚═════╝ 
 
-\t   CHIVATO DE PRECIOS CRYPTO @ Coingecko.com
+\t   HISTORIAL DE PRECIOS CRYPTO @ Coingecko.com
 """)
 
 if __name__ == "__main__":
