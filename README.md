@@ -1,4 +1,11 @@
-# CriptoRentaCalculator 2026
+# Cripto Historial
+Muestra el precio de una criptomoneda en una fecha determinada
+
+Limitaciones de la API: Solo acepta un año atras.
+
+<img width="1111" height="649" alt="chivato" src="https://github.com/user-attachments/assets/682a0a51-ea35-4a59-8542-68a3734adc6a" />
+
+# Calculatora Renta
 Calcula cuanto deberás pagar en la renta por tus ganancias en criptomonedas
 
 <img width="1115" height="645" alt="Sin título" src="https://github.com/user-attachments/assets/835cc2b3-e303-4744-9d44-de5cc85a226e" />
@@ -22,10 +29,5 @@ Cuando vendes, intercambias o conviertes cripto con ganancia, tributas así:
 👉 Esto se aplica a la ganancia neta, no al total vendido.
 
 
-# CriptoHistorial
-Muestra el precio de una criptomoneda en una fecha determinada
 
-Limitaciones de la API: Solo acepta un año atras.
-
-<img width="1111" height="649" alt="chivato" src="https://github.com/user-attachments/assets/682a0a51-ea35-4a59-8542-68a3734adc6a" />
 
